@@ -1,0 +1,39 @@
+﻿@model int
+
+
+<div class="col-md-6">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4>Showroom</h4>
+        </div>
+        <div class="panel-body">
+            <div class="row text-center">
+                <b>Total</b>
+            </div>
+            <div class="row text-center">
+                @Model
+            </div>
+        </div>
+        <div class="panel-footer">
+            <div class="row">
+                <div class="flex" style="padding-left:20px">
+                    <div class="flex-child">
+                        <a title="Generate Excel" href="@Url.Action("GenerateExcel", "Showroom")"><span class="glyphicon glyphicon-download"></span><b>Excel</b></a>
+                    </div>
+                    <div class="flex-child">
+                        <a title="Generate Xml" href="@Url.Action("GenerateXML", "Showroom")"><span class="glyphicon glyphicon-download"></span><b>Xml</b></a>
+                    </div>
+                    <div class="flex-child">
+                        <a title="Upload Xml" href="@Url.Action("UploadXML", "Showroom")"><span class="glyphicon glyphicon-upload"></span><b>Xml</b></a>
+                    </div>
+                    <div class="flex-child">
+                        <a title="Index" href="@Url.Action("Index", "Showroom")"><span class="glyphicon glyphicon-th-list"></span></a>
+                    </div>
+                    <div class="flex-child">
+                        <a title="Create" href="@Url.Action("Create", "Showroom")"><span class="glyphicon glyphicon-plus-sign"></span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

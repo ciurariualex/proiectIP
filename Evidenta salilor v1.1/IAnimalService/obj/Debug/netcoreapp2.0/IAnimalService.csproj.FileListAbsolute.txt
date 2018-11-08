@@ -1,0 +1,12 @@
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.csproj.CoreCompileInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.AssemblyInfoInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.AssemblyInfo.cs
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\bin\Debug\netcoreapp2.0\IAnimalService.deps.json
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\bin\Debug\netcoreapp2.0\IAnimalService.dll
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\bin\Debug\netcoreapp2.0\IAnimalService.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.csproj.CopyComplete
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.dll
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\IAnimalService\obj\Debug\netcoreapp2.0\IAnimalService.csprojAssemblyReference.cache

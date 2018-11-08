@@ -1,0 +1,32 @@
+﻿@model int
+
+
+<div class="col-md-6">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4>User</h4>
+        </div>
+        <div class="panel-body">
+            <div class="row text-center">
+                <b>Total</b>
+            </div>
+            <div class="row text-center">
+                @Model
+            </div>
+        </div>
+        <div class="panel-footer">
+            <div class="row">
+                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        @Html.ActionLink("Index", "Index", "User", null, new { @class = "btn btn-primary" })
+                    </div>
+                    <div class="col-md-4">
+                        @Html.ActionLink("Create", "Register", "User", null, new { @class = "btn btn-primary" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

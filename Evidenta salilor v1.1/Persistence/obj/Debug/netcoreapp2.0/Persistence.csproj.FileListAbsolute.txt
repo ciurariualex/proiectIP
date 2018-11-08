@@ -1,0 +1,12 @@
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\seby_\source\repos\RepositoryPattern\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

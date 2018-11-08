@@ -1,0 +1,37 @@
+﻿@model Web.Models.Car.CarDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Showroom)
+            @Html.TextBoxFor(model => model.Showroom.Name, new { @class = "form-control", @disabled = "disabled" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Brand)
+            @Html.TextBoxFor(model => model.Brand, new { @class = "form-control", @disabled = "disabled" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Model)
+            @Html.TextBoxFor(model => model.Model, new { @class = "form-control", @disabled = "disabled" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.VIN)
+            @Html.TextBoxFor(model => model.VIN, new { @class = "form-control", @disabled = "disabled" })
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

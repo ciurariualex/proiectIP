@@ -1,0 +1,4 @@
+C:\Users\seby_\source\repos\RepositoryPattern\IRepositoryService\obj\Debug\netcoreapp2.0\IRepositoryService.csprojAssemblyReference.cache
+C:\Users\seby_\source\repos\RepositoryPattern\IRepositoryService\obj\Debug\netcoreapp2.0\IRepositoryService.csproj.CoreCompileInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\IRepositoryService\obj\Debug\netcoreapp2.0\IRepositoryService.AssemblyInfoInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\IRepositoryService\obj\Debug\netcoreapp2.0\IRepositoryService.AssemblyInfo.cs

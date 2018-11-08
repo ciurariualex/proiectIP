@@ -1,0 +1,69 @@
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.pdb
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\seby_\source\repos\EvidentaSalilor\Core\obj\Debug\netcoreapp2.0\Core.csproj.CopyComplete
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+C:\Users\seby_\source\repos\RepositoryPattern\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\seby_\source\repos\RepositoryPattern\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+C:\Users\seby_\source\repos\RepositoryPattern\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+C:\Users\seby_\source\repos\RepositoryPattern\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\RepositoryPattern\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\seby_\source\repos\RepositoryPattern\Core\obj\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect Sebi\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.pdb
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.dll
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.pdb
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.dll
+F:\Personal Pojects\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\Admin\Documents\Personal\Personal Projects\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\Core\obj\Debug\netcoreapp2.0\Core.pdb

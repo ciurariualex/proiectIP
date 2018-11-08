@@ -1,0 +1,14 @@
+﻿@using Resources;
+@model Web.Models.Home.HomeViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container">
+    <h2>Dashboard</h2>
+    <div class="row">
+        @Html.Partial("Partial/Showroom", Model.ShowroomCount)
+        @Html.Partial("Partial/Car", Model.CarCount)
+        @*@Html.Partial("Partial/User", Model.UserCount)*@
+    </div>
+</div>
