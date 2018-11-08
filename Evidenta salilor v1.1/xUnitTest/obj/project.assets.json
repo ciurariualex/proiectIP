@@ -15073,11 +15073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\OneDrive\\Proiect IP\\Proiect IP\\Evidenta salilor v1.1\\Evidenta salilor v1.1\\xUnitTest\\xUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\proiectIP\\Evidenta salilor v1.1\\xUnitTest\\xUnitTest.csproj",
       "projectName": "xUnitTest",
-      "projectPath": "C:\\Users\\Alex\\OneDrive\\Proiect IP\\Proiect IP\\Evidenta salilor v1.1\\Evidenta salilor v1.1\\xUnitTest\\xUnitTest.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\proiectIP\\Evidenta salilor v1.1\\xUnitTest\\xUnitTest.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\OneDrive\\Proiect IP\\Proiect IP\\Evidenta salilor v1.1\\Evidenta salilor v1.1\\xUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\proiectIP\\Evidenta salilor v1.1\\xUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15096,8 +15096,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Alex\\OneDrive\\Proiect IP\\Proiect IP\\Evidenta salilor v1.1\\Evidenta salilor v1.1\\Web\\Web.csproj": {
-              "projectPath": "C:\\Users\\Alex\\OneDrive\\Proiect IP\\Proiect IP\\Evidenta salilor v1.1\\Evidenta salilor v1.1\\Web\\Web.csproj"
+            "C:\\Users\\Alex\\Documents\\proiectIP\\Evidenta salilor v1.1\\Web\\Web.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Documents\\proiectIP\\Evidenta salilor v1.1\\Web\\Web.csproj"
             }
           }
         }

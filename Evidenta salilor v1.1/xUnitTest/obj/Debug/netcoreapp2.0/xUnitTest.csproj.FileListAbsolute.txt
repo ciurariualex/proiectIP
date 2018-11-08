@@ -40,3 +40,24 @@ C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salil
 C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.csproj.CopyComplete
 C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.dll
 C:\Users\Alex\Desktop\Proiect IP\Proiect IP\Evidenta salilor v1.1\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.pdb
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xUnitTest.deps.json
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xUnitTest.runtimeconfig.json
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xUnitTest.runtimeconfig.dev.json
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xUnitTest.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\xUnitTest.pdb
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Resources.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Web.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Web.pdb
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\bin\Debug\netcoreapp2.0\Resources.pdb
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.AssemblyInfo.cs
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.csproj.CopyComplete
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.dll
+C:\Users\Alex\Documents\proiectIP\Evidenta salilor v1.1\xUnitTest\obj\Debug\netcoreapp2.0\xUnitTest.pdb
